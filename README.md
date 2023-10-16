@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DHARMA-2006
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning B.Sc. CS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 mail me on :- dharmaahjoliya@gmail.com
 
 <!---
 DHARMA-2006/DHARMA-2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
