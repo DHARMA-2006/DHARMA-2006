@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DHARMA-2006
+- 👋 Hi, I’m @DHARMA AHJOLIYA
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning B.Sc. CS
 - 💞️ I’m looking to collaborate on ...
