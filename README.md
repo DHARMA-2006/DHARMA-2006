@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DHARMA AHJOLIYA
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning B.Sc. CS
+- 👀 I’m interested in building systems which helps organizations to work.
+- 🌱 I’have completed my graduation in B.Sc. CS
 - 💞️ I’m looking to collaborate on ...
 - 📫 mail me on :- dharmaahjoliya@gmail.com
 
